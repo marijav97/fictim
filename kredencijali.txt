@@ -1,0 +1,7 @@
+administrator
+email:marijavasic97@gmail.com
+pass:marija97
+
+user
+email:anjazubac@gmail.com
+password:anja97
